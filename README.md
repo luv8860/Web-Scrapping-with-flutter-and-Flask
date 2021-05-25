@@ -1,16 +1,8 @@
-# web_scrapper_flutter
+# Reviews Web Scrapper In Flutter as UI.
 
-A new Flutter project.
+## Description 
 
-## Getting Started
+An reviews web scrapper scrapper using Beautiful Soup is already build in my repository:- https://github.com/luv8860/Web-Scrapping-with-flutter-and-Flask/tree/main/web-scrapping-flask-main  and this is the UI for that. This Project explains how to connect each other .
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video
+App:- https://drive.google.com/file/d/1y5IiMMi-KBhW6Wt00N5udkPLFPDHbH3I/view
